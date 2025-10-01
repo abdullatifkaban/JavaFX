@@ -6,18 +6,16 @@ Bu repo, **JavaFX ile görsel programlama** üzerine hazırlanmış kapsamlı bi
 - 📚 İçerik oluştukça zaman içerisinde ilgili sayfalara köprüler eklenecektir.  
 
 ---
----
 
 ## 📚 İçindekiler
 
 ### 1. Giriş ve Kurulum
-- [01 Görsel Programlamaya Giriş](01_Giris/01_Gorsel_Programlamaya_Giris.md)  
+- [01 Görsel Programlamaya Giriş](01-Introduction/01-Introduction-to-Visual-Programming.md)  
   _(Görsel programlamaya giriş, JavaFX nedir, NetBeans kurulumu, ilk "Merhaba Dünya" uygulaması)_
 
 ### 2. JavaFX Uygulama Yapısı
 - (Yakında eklenecek)
 
----
 ---
 
 ## 🚀 Nasıl Kullanılır?
@@ -26,7 +24,6 @@ Bu repo, **JavaFX ile görsel programlama** üzerine hazırlanmış kapsamlı bi
 3. ▶️ Kod örneklerini IDE’nize kopyalayarak çalıştırın.  
 
 ---
----
 
 ## 🎯 Kimler İçin?
 - 👨‍🎓 **JavaFX teknolojisine yeni başlayanlar**  
@@ -34,13 +31,11 @@ Bu repo, **JavaFX ile görsel programlama** üzerine hazırlanmış kapsamlı bi
 - 🔬 Görsel programlamaya ilgi duyan öğrenciler ve meraklılar  
 
 ---
----
 
 ## 📌 Not
 - 📝 İçerikler düzenli olarak güncellenecektir.  
 - 📖 Ders notları ve uygulama örnekleri **JavaFX öğrenmek isteyen herkese açık** olarak paylaşılmaktadır.  
 
----
 ---
 
 ## 🔗 İlgili Programlar
