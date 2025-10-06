@@ -14,7 +14,10 @@ Bu repo, **JavaFX ile görsel programlama** üzerine hazırlanmış kapsamlı bi
   _(Görsel programlamaya giriş, JavaFX nedir, NetBeans kurulumu, ilk "Merhaba Dünya" uygulaması)_
 
 ### 2. JavaFX Uygulama Yapısı
-- (Yakında eklenecek)
+- [02 JavaFX Uygulama Yapısı](02-Application-Structure/02-JavaFX-Application-Structure.md)  
+  _(Yaşam döngüsü, Stage/Scene/Node, Scene Graph, Layout kavramı, basit arayüz uygulaması)_
+
+
 
 ---
 

@@ -88,9 +88,10 @@ public class MerhabaDunya extends Application {
 ### Çalıştırma Adımları
 
 1. NetBeans üzerinde yeni proje oluşturun.
-2. MerhabaDunya.java dosyasına yukarıdaki kodu yazın.
-3. Projeyi çalıştırın (▶ Run).
-4. Ekranda "Merhaba Dünya!" yazılı küçük bir pencere açılacaktır. 🎉
+2. Yeni projeye `MerhabaDunya` ismini verin.
+3. `MerhabaDunya.java` dosyasına yukarıdaki kodu yazın.
+4. Projeyi çalıştırın (▶ Run).
+5. Ekranda "Merhaba Dünya!" yazılı küçük bir pencere açılacaktır. 🎉
 
 ## 📌 Önemli Notlar
 
