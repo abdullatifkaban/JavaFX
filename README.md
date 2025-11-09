@@ -9,14 +9,27 @@ Bu repo, **JavaFX ile görsel programlama** üzerine hazırlanmış kapsamlı bi
 
 ## 📚 İçindekiler
 
-### 1. Giriş ve Kurulum
+### Giriş ve Kurulum
 - [01 Görsel Programlamaya Giriş](01-Introduction/01-Introduction-to-Visual-Programming.md)  
   _(Görsel programlamaya giriş, JavaFX nedir, NetBeans kurulumu, ilk "Merhaba Dünya" uygulaması)_
 
-### 2. JavaFX Uygulama Yapısı
+### JavaFX Uygulama Yapısı
 - [02 JavaFX Uygulama Yapısı](02-Application-Structure/02-JavaFX-Application-Structure.md)  
   _(Yaşam döngüsü, Stage/Scene/Node, Scene Graph, Layout kavramı, basit arayüz uygulaması)_
 
+### Arayüz Bileşenleri
+- [03 Temel Arayüz Bileşenleri](03-UI-Components/03-Basic-UI-Components.md)  
+  _(Label, Button, TextField, TextArea kullanımı, olay yönetimine giriş, toplama işlemi örneği)_
+- [04 Kullanıcı Etkileşimli Kontroller](03-UI-Components/04-User-Interaction-Controls.md)  
+  _(CheckBox, RadioButton, ComboBox, ListView kullanımı ve mini anket uygulaması)_
+- [05 Tablo ve Menü Yapıları](03-UI-Components/05-Table-And-Menus.md)  
+  _(TableView, MenuBar, ContextMenu kullanımı ve öğrenci bilgi tablosu uygulaması)_
+- [06 Düzen (Layout) Yönetimi](03-UI-Components/06-Layout-Management.md)  
+  _(HBox, VBox, GridPane, BorderPane, AnchorPane, StackPane kullanımı ve karmaşık arayüz örneği)_
+
+### Olay Yönetimi ve Dinleyiciler
+- [07 Olay Yönetimi ve Dinleyiciler](04-Event-Handling/07-Event-Handling-And-Listeners.md)  
+  _(ActionEvent, MouseEvent, KeyEvent, ChangeListener kullanımı ve renk değiştiren buton örneği)_
 
 
 ---
