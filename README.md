@@ -31,6 +31,23 @@ Bu repo, **JavaFX ile görsel programlama** üzerine hazırlanmış kapsamlı bi
 - [07 Olay Yönetimi ve Dinleyiciler](04-Event-Handling/07-Event-Handling-And-Listeners.md)  
   _(ActionEvent, MouseEvent, KeyEvent, ChangeListener kullanımı ve renk değiştiren buton örneği)_
 
+### Grafik ve Medya
+- [08 Grafik ve Medya Kullanımı](05-UI-And-Data/08-Graphics-And-Media-Usage.md)  
+  _(Şekiller, Renkler, Degradeler, Efektler, Görseller, Ses/Video oynatma, Canvas, Animasyonlar, Grafikler)_
+- [09 Form ve Veri İşleme](05-UI-And-Data/09-Form-and-Data-Processing.md)  
+  _(Form kontrolü, Veri doğrulama, FileChooser, Kontrol uygulaması)_
+- [10 Veritabanı Bağlantısı](05-UI-And-Data/10-Database-Connection.md)  
+  _(JDBC, CRUD işlemleri, SQLite/MySQL entegrasyonu, Task/Service kullanımı)_
+- [11 Dosya İşlemleri](05-UI-And-Data/11-File-Operations.md)  
+  _(Dosya okuma/yazma, BufferedReader, Scanner, FileChooser, Metin Editörü örneği)_
+
+### Uygulama Yapısı ve Kullanıcı Deneyimi
+- [12 Çoklu Pencere ve Navigasyon](06-App-Structure-And-UX/12-Multi-Window-Navigation.md)  
+  _(Stage/Scene yönetimi, Modal pencereler, Dialog kutular, Navigasyon sistemleri, TabPane, MenuBar)_
+- [13 Arayüz Tasarımı ve Stil](06-App-Structure-And-UX/13-UI-Design-And-Styling.md)  
+  _(Tasarım ilkeleri, Layout stratejileri, FXML, CSS tema yönetimi, Responsive tasarım, Erişilebilirlik, Yerelleştirme)_
+- [14 Yapay Zekâ ile Geliştirme](06-App-Structure-And-UX/14-AI-Assisted-Development.md)  
+  _(AI araçları (Copilot, ChatGPT, Claude), İstem mühendisliği, AI destekli hata ayıklama, Etik AI kullanımı)_
 
 ---
 
